@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+
 # Analyse et segmentation des marchés internationaux pour l’exportation de volaille
 
 ## Contexte & Objectif
